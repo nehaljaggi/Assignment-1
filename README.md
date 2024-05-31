@@ -1,2 +1,2 @@
 # Assignment-1
-Created a cv using html and css
+Created a Resume using html and css
